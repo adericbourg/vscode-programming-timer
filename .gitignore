@@ -1,0 +1,8 @@
+.DS_Store
+npm-debug.log
+Thumbs.db
+.vs/
+out
+node_modules
+.vscode-test/
+*.vsix
